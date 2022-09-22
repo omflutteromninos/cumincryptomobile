@@ -1,4 +1,4 @@
-# cPocket
+# cumincryto
 
 <!--Background Story-->
 
@@ -16,4 +16,4 @@
     * Firebase
 
 ## Authors
-* Sk Rockybul Hasan Rasel, Junior Software Engineer, Custom App Development, iTech Soft Solutions - [Rasel]
+* om shivam and flutter team omninos
